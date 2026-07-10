@@ -1,14 +1,4 @@
 
----
-
-## 🎨 **Bonus: Add a Nice Banner Image (Optional)**
-
-Add this HTML at the top of your README (replace with your own image):
-
-```html
-<p align="center">
-  <img src="https://img.shields.io/badge/Steel%20Plant-Energy%20Analysis-blue?style=for-the-badge&logo=industry" alt="Steel Plant Energy Analysis">
-</p>
 
 
 # AI-ML-Intern-Task-Week2
